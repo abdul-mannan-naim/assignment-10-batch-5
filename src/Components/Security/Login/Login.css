@@ -1,0 +1,43 @@
+
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-container {
+   
+    margin-top: 40px;
+    border-radius: 8px;
+    background-color: rgba(0, 85, 255, 0.654);
+    width: 730px;
+    height: 600px;  
+    color: rgba(192, 192, 192, 0.798);
+    padding-left:10px ;
+}
+.login-form{
+     margin-top: 30px;
+}
+
+.login-form input:not([type=checkbox]) {
+   width: 629px;
+   font-size: 22px;
+   border-radius: 8px;
+   border: 0;
+}
+.input-btn {
+    color:rgba(192, 192, 192, 0.998) ;
+    width: 50px;
+    background-color:goldenrod;
+    border: 0;
+    border-radius: 8px;
+    font-weight: 900;
+
+}
+/* .input-btn:hover{
+    background-color:rgba(203, 175, 13, 0.862) ;
+} */
+.sign-up-link{
+    text-decoration: none;
+    color: aqua;
+    /* cursor: pointer; */
+}

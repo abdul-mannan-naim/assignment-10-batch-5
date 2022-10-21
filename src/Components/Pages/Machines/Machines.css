@@ -1,0 +1,16 @@
+
+.container h1{
+ margin-top: 120px;
+text-align: center;
+color: rgb(11, 195, 195);
+}
+.machines{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 90px;
+   
+
+}

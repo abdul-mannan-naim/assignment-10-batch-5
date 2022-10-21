@@ -1,0 +1,57 @@
+[
+    {
+      "id": "6350129c6b01342e7d0decb7",
+      "balance": "$2,177.78",
+      "picture": "../image/Machine/machine-1.jpg",
+      "age": 34,
+      "name": "Sawyer Hess",
+      "gender": "male",
+      "email": "sawyerhess@quotezart.com",
+      "phone": "+1 (825) 449-2050",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350129c8d47a637097be7f5",
+      "balance": "$3,065.36",
+      "picture": "../image/Machine/machine-2.jpg",
+      "age": 29,
+      "name": "Guerra Mitchell",
+      "gender": "male",
+      "email": "guerramitchell@quotezart.com",
+      "phone": "+1 (949) 521-3665",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350129c00b2967492863694",
+      "balance": "$1,345.30",
+      "picture": "../image/Machine/machine-3.jpg",
+      "age": 22,
+      "name": "Susie Crosby",
+      "gender": "female",
+      "email": "susiecrosby@quotezart.com",
+      "phone": "+1 (963) 479-3647",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350129c63d416b894390b95",
+      "balance": "$2,039.11",
+      "picture": "../image/Machine/machine-4.jpg",
+      "age": 24,
+      "name": "Franco Stephens",
+      "gender": "male",
+      "email": "francostephens@quotezart.com",
+      "phone": "+1 (993) 415-2138",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350129c974f7f343d0fe7f8",
+      "balance": "$3,266.39",
+      "picture": "../image/Machine/machine-5.jpg",
+      "age": 39,
+      "name": "Adrienne Daniels",
+      "gender": "female",
+      "email": "adriennedaniels@quotezart.com",
+      "phone": "+1 (825) 587-3833",
+      "title": "<ReferenceError: abc is not defined>"
+    }
+  ]

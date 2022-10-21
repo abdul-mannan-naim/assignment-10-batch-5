@@ -1,0 +1,47 @@
+.dash{
+border: 2px silver solid;
+width: 40%;
+height: 1px;
+border-radius: 8px;
+}
+ 
+.dash-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 80px;
+
+}
+.or{
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.btn-style{
+ width: 300px;
+ background-color: aquamarine;
+ margin-top: 10px;
+ text-align: end;
+ border-radius: 8px;
+ padding: 8px;
+ padding-right: 60px;
+}
+.btn-style button{
+    background-color: aquamarine;
+    border: 0;
+    font-size: 18px;
+    margin-left: 10px;
+
+}
+.social-login{
+    display: flex;
+    justify-content: center;
+}
+.social{
+    padding-right: 30px;
+}
+.social img{
+   width: 30px;
+   height: 30px;
+}

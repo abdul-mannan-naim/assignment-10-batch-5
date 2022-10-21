@@ -1,0 +1,101 @@
+[
+    {
+      "id": "6350122f35cc05c4b71c9ee6",
+      "balance": "$1,988.92",
+      "picture": "../image/disease/disease-1.jpg",
+      "age": 40,
+      "name": "Chase Cash",
+      "gender": "male",
+      "email": "chasecash@quotezart.com",
+      "phone": "+1 (945) 577-2801",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350122f4b40f54e8fb350c9",
+      "balance": "$1,380.57",
+      "picture": "../image/disease/disease-2.jpg",
+      "age": 39,
+      "name": "Alice Sandoval",
+      "gender": "female",
+      "email": "alicesandoval@quotezart.com",
+      "phone": "+1 (947) 465-2871",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350122f2305500f7a97be22",
+      "balance": "$1,570.72",
+      "picture": "../image/disease/disease-3.jpg",
+      "age": 23,
+      "name": "Carla Ferguson",
+      "gender": "female",
+      "email": "carlaferguson@quotezart.com",
+      "phone": "+1 (864) 457-3774",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350122f24c9be579647f501",
+      "balance": "$3,250.63",
+      "picture": "../image/disease/disease-4.jpg",
+      "age": 22,
+      "name": "Alexandra Watson",
+      "gender": "female",
+      "email": "alexandrawatson@quotezart.com",
+      "phone": "+1 (877) 592-3030",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350122f376a89b306b9e3d9",
+      "balance": "$2,533.63",
+      "picture": "../image/disease/disease-5.jpg",
+      "age": 36,
+      "name": "Erika Crosby",
+      "gender": "female",
+      "email": "erikacrosby@quotezart.com",
+      "phone": "+1 (993) 436-2395",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350122f8c6fd4a9b1735e10",
+      "balance": "$3,029.70",
+      "picture": "../image/disease/disease-6.jpg",
+      "age": 31,
+      "name": "Margret Myers",
+      "gender": "female",
+      "email": "margretmyers@quotezart.com",
+      "phone": "+1 (955) 454-3699",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350122f2fb35ae37cdaceb9",
+      "balance": "$2,976.47",
+      "picture": "../image/disease/disease-7.jpg",
+      "age": 35,
+      "name": "Tessa Marsh",
+      "gender": "female",
+      "email": "tessamarsh@quotezart.com",
+      "phone": "+1 (975) 554-3531",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+      "id": "6350122f8a0ee0c4eab42d06",
+      "balance": "$3,018.14",
+      "picture": "../image/disease/disease-8.jpg",
+      "age": 37,
+      "name": "Callie Fleming",
+      "gender": "female",
+      "email": "calliefleming@quotezart.com",
+      "phone": "+1 (940) 587-3712",
+      "title": "<ReferenceError: abc is not defined>"
+    },
+    {
+        "id": "6350122f8a0ee0c4eab42",
+        "balance": "$3,018",
+        "picture": "../image/disease/disease-9.jpg",
+        "age": 36,
+        "name": "karim benzema",
+        "gender": "female",
+        "email": "karimBenzema@quotezart.com",
+        "phone": "+1 (940) 587-3778",
+        "title": "<ReferenceError: abc is not defined>"
+      }
+  ]
